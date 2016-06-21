@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/JustFly1984/freact/issues"
   },
-  "homepage": "https://github.com/JustFly1984/freact#readme"
+  "homepage": "https://github.com/JustFly1984/freact#readme",
+  "dependencies": {
+    "deep-diff": "^0.3.4"
+  }
 }
