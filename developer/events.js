@@ -3,11 +3,11 @@ import {
   isObject,
   isUndefined,
   isFunction
-} from "../utils/is";
+} from "./utils/is";
 
 import {
   createPlainObject
-} from "../utils/funcs";
+} from "./utils/funcs";
 
 import {
   getPropsFromCollection

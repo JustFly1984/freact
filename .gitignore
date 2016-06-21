@@ -1,2 +1,3 @@
-./node_modules/
-./freact.sublime-project
+/node_modules
+/freact.sublime-project
+/freact.sublime-workspace
