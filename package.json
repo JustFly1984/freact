@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JustFly1984/freact.git"
+    "name": "freact",
+    "url": "git@github.com:JustFly1984/freact.git"
   },
   "keywords": [
     "freact",
@@ -22,6 +23,6 @@
   },
   "homepage": "https://github.com/JustFly1984/freact#readme",
   "dependencies": {
-    "deep-diff": "^0.3.4"
+    "deep-diff": "0.3.4"
   }
 }
