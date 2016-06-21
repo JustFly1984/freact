@@ -1,0 +1,24 @@
+{
+  "name": "freact",
+  "version": "1.0.0",
+  "description": "Functional rendering framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustFly1984/freact.git"
+  },
+  "keywords": [
+    "freact",
+    "render",
+    "framework"
+  ],
+  "author": "Alexey Lyakhov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustFly1984/freact/issues"
+  },
+  "homepage": "https://github.com/JustFly1984/freact#readme"
+}
